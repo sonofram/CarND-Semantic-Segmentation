@@ -1,0 +1,1 @@
+ssh -i "deeplearning2.pem" ubuntu@ec2-54-212-218-110.us-west-2.compute.amazonaws.com
