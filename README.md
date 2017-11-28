@@ -20,7 +20,7 @@ The hyperparameters used for training are:
 * epochs: 50
 * batch_size: 10
 
-
+All Images added to directory runs/1511739322.279592. Sample images for README.md are added to main directory.
 
 
 Predicted images:
